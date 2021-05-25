@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "33455395025",
+    "firebase_url": "https://whatsapp-edd5a.firebaseio.com",
+    "project_id": "whatsapp-edd5a",
+    "storage_bucket": "whatsapp-edd5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33455395025:android:68b3ba22cd9e6c2d95b5f0",
+        "android_client_info": {
+          "package_name": "com.example.sociochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33455395025-aej9lj6pqhge3v0liq48u50pj5omcmpi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sociochat",
+            "certificate_hash": "e815225b47c2036171855c198662556607b4e18b"
+          }
+        },
+        {
+          "client_id": "33455395025-1lqil9fkvji9akcuteb1jskpdde7phhi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeDoGcyvfS0ywgE5wYytBqhQnooEQFybM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33455395025-1lqil9fkvji9akcuteb1jskpdde7phhi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
